@@ -33,24 +33,11 @@ This project predicts the price of a Ford car using Machine Learning and provide
 
 ## Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Joblib
-- Streamlit
-- GitHub
+- Python, Pandas, NumPy, Scikit-Learn, Joblib, Streamlit ,GitHub
 
 ## Input Features
 
-- Year
-- Mileage
-- Tax
-- MPG
-- Engine Size
-- Model
-- Transmission
-- Fuel Type
+- Year, Mileage, Tax, MPG, Engine Size, Model,Transmission,Fuel Type
 
 ## Model Performance
 
@@ -58,7 +45,7 @@ This project predicts the price of a Ford car using Machine Learning and provide
 - MAE: 1377
 - RMSE: 1903
 
-
+#GitHub Repository: https://github.com/abhay-ai-Mlearning/Ford-car-price-Prediction.git
 
 ## Live Demo
 
